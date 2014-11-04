@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 version = "0.1.0"
 
 setup(
-    name="baas.message",
+    name="buzzer_as_a_service.message",
     version=version,
     description="A test message plugin for BaaS",
     classifiers=[],
@@ -26,5 +26,5 @@ setup(
     install_requires=[
         "",
     ],
-    py_modules=['baas.message'],
+    py_modules=['buzzer_as_a_service.message'],
 )
