@@ -1,0 +1,21 @@
+author: Liam Middlebrook
+classifiers: []
+description: A test message plugin for BaaS
+directories: [/home/liam/repos/baas/baas, /home/liam/repos/baas/baas/docs, /home/liam/repos/baas/baas/baas]
+docs_dir: /home/liam/repos/baas/baas/docs
+email: liammiddlebrook@gmail.com
+encoding: utf8
+files: [/home/liam/repos/baas/baas/MANIFEST.in, /home/liam/repos/baas/baas/setup.py,
+  /home/liam/repos/baas/baas/baas/__init__.py]
+init_file: null
+keywords: ['']
+license: MIT
+manifest: /home/liam/repos/baas/baas/MANIFEST.in
+name: baas
+project_dir: /home/liam/repos/baas/baas
+requires: ['']
+setup_file: /home/liam/repos/baas/baas/setup.py
+shortname: baas.message
+source_dir: /home/liam/repos/baas/baas/baas
+url: https://github.com/liam-middlebrook/baas-message
+version: 0.1.0
